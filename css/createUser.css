@@ -1,0 +1,41 @@
+body
+{
+    background-color: firebrick;
+    background-image: url(../img/Purple%20Sky%20Minimalist%20UI%20Privacy%20Desktop%20Wallpaper.png);
+}
+.outer
+{
+    
+    margin-top: 40px;
+    height: 430px;
+    width: 600px;
+   
+    background-color:antiquewhite;
+    border-radius: 10%;
+    
+}
+.outer img{
+ float: left;
+    border-radius: 50%;
+    margin: 10px;
+    margin-top: 105px;    
+}
+
+.formm{
+    float: right;
+    height: 82%;
+    margin: 13px;
+    width: 59%;
+    background-color: white;
+    border-radius: 8%;
+    padding-top: 40px;
+   
+}
+.inp
+{
+    margin-top: 20px;
+    width: 90%;
+    margin-bottom: 18px;    
+    border: 0px;
+    border-bottom: 2px black solid;
+}
