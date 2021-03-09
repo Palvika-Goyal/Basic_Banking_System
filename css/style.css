@@ -1,0 +1,39 @@
+
+.service
+{
+    background-color: orangered;
+    font-family: cursive;
+    font-size: 24px;
+    color: white;
+}
+.hee
+{
+    background-color: blue;
+}
+.card img
+{
+    border-radius: 50%;
+    height: 230px;
+    width:90%;
+    margin-left: 15px;
+   
+}
+
+.card{
+    float: left;
+    margin: 15px;
+    margin-left: 116px;
+  
+ 
+   
+}
+
+.card h5
+{
+    text-align: center;
+}
+a{
+    font-family: cursive;
+    font-size: 20px;
+    
+}

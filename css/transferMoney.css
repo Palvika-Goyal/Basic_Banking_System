@@ -1,0 +1,27 @@
+
+.container
+{
+    width: 1100px;
+    height: 500px;
+    background-color:ivory;
+    padding: 10px;
+}
+table
+{
+    width: 100%;
+    margin: 5px;
+    font-family: cursive;
+    font-size: 20px;
+    border-radius: 10%;
+}
+th
+{
+    height: 50px;
+    width: 20%;
+    text-align: center;
+}
+td
+{
+     width: 20%;
+    text-align: center;
+}
